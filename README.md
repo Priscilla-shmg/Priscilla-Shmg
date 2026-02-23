@@ -90,5 +90,5 @@ What excites me about DeFi is its ability to challenge that fragmentation — re
 ---
 
 <p align="center">
-  <em>💜 Building the future of finance, one commit at a time.</em>
+  <em>💜 Engineering better financial systems, one commit at a time.</em>
 </p>
