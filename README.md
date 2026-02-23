@@ -16,7 +16,7 @@
 - 💸 Passionate about **Decentralized Finance (DeFi)** & **FinTech**
 - 🔗 Learning to build **smart contracts** and **Web3 systems**
 - 🌍 Goal: Become a **DeFi Engineer** bridging finance and blockchain
-- ⚡ Fun fact: I believe finance should be open to everyone, not just the privileged
+- ⚡ Fun fact: I don’t like superficial solutions — I build things that solve real problems.
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 Learning in Progress 
 
 ### 🔗 Blockchain & DeFi
 - Smart contract development with **Solidity**
@@ -48,16 +48,17 @@
 - Building secure, scalable financial dApps
 
 ### 🐍 Python for Finance
-- Scripting for data analysis & automation
 - Interacting with blockchain APIs (Web3.py)
 
 ---
 
 ## 💛 Why DeFi & FinTech?
 
-> *"Traditional finance excludes billions. DeFi includes everyone."*
+> *" Money shouldn’t depend on which network you use — or on the goodwill of an intermediary."* 🌐
 
-I believe that the future of money is **open, transparent, and borderless** — and I want to be one of the engineers who builds it. 🌐
+I’ve seen how **fragmented financial systems create friction, delays, and exclusion**.
+What excites me about DeFi is its ability to challenge that fragmentation — replacing dependency with interoperability, transparency, and control.
+
 
 ---
 
