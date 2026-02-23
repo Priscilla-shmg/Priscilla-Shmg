@@ -35,7 +35,7 @@
 
 ---
 
-## 🌱 Learning in Progress 
+## 🌱 Learning. Building. Improving — One Project at a Time 
 
 ### 🔗 Blockchain & DeFi
 - Smart contract development with **Solidity**
