@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Priscilla Shamanga 👋💫</h1>
+<h1 align="center">Hey there, I'm Priscilla Shamanga 🚀🔥 </h1>
 
 <p align="center">
   <em>Aspiring DeFi Engineer & FinTech Builder 🚀 | Turning code into financial freedom </em>
